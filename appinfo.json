@@ -1,0 +1,10 @@
+{
+  "id": "de.raudi.prefuel",
+  "keywords": ["Tanken", "Benzin", "Diesel", "Tankstelle","PreFuel"],
+  "version": "2.0.2",
+  "vendor": "raudi85",
+  "type": "web",
+  "main": "index.html",
+  "title": "PreFuel",
+  "uiRevision": "2"
+}
